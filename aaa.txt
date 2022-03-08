@@ -1,2 +1,1 @@
-aa
-fdfs
+The InetAddress is used to print the IP address in java language.

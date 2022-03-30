@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/cookie-session':  ^2.0.44
+  '@types/cookie-session': ^2.0.44
   '@types/ejs': ^3.1.0
   '@types/express': ^4.17.13
   '@types/node': ^17.0.21

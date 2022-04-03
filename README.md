@@ -4,7 +4,7 @@ specifiers:
   '@types/cookie-session': ^2.0.44
   '@types/ejs': ^3.1.0
   '@types/express': ^4.17.13
-  '@types/node': ^17.0.21 .
+  '@types/node': ^17.0.21 
   '@types/passport': ^1.0.7
   '@types/passport-github2': ^1.2.5
   '@types/pg': ^8.6.5

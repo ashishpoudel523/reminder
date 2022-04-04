@@ -10,7 +10,7 @@ specifiers:
   '@types/pg': ^8.6.5
   '@vendia/serverless-express': ^4.5.4
   cookie-session: ^2.0.0
-  dotenv: ^16.0.0
+  dotenv: ^16.0.0.
   ejs: ^3.1.6
   express: ^4.17.3
   passport: ^0.5.2

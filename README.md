@@ -17,7 +17,7 @@ specifiers:
   passport-github2: ^0.1.12
   pg: ^8.7.3
   tsc-watch: ^4.6.0
-  typescript: ^4.6.2
+  typescript: ^4.6.2 .
 
 dependencies:
   '@vendia/serverless-express': 4.5.4

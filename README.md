@@ -5,7 +5,7 @@ specifiers:
   '@types/ejs': ^3.1.0 ...
   '@types/express': ^4.17.13.
   '@types/node': ^17.0.21 ....
-  '@types/passport': ^1.0.7
+  '@types/passport': ^1.0.7 ..
   '@types/passport-github2': ^1.2.5
   '@types/pg': ^8.6.5
   '@vendia/serverless-express': ^4.5.4

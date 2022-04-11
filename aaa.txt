@@ -1,4 +1,3 @@
 Remote Invocation Method../.
-  ......
- ..
+  
   

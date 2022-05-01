@@ -1,5 +1,5 @@
 Remote Invocation Method
-                           
+         .                  
 import java.net.ConnectException;
 import java.rmi.registry.LocateRegistry; 
 import java.rmi.registry.Registry;
